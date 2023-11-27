@@ -2,7 +2,6 @@
 //Algorithm. Sort the following list using
 //bubble sort in ascending order :
 //35, 39, 10, 8, 78, 92, 20, 50
-
 #include<iostream>
 using namespace std;
 
